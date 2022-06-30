@@ -19,7 +19,7 @@ Experiments on WBM datasets demonstrate the effectiveness of the proposed method
 
 ### Method
 * CrossEntropy : Standard training with the CrossEntropy loss in CNN
-* DFL : Discriminative feature learning and cluster-based defect label reconstruction for reducing uncertainty in wafer bin map labels [link](https://link.springer.com/article/10.1007/s10845-020-01571-4)
+* DFL : Customized code(no official code) [Discriminative feature learning and cluster-based defect label reconstruction for reducing uncertainty in wafer bin map labels](https://link.springer.com/article/10.1007/s10845-020-01571-4)
 * SELFIE : Pytorch version of the official code [SELFIE: Refurbishing Unclean Samples for Robust Deep Learning](http://proceedings.mlr.press/v97/song19b/song19b.pdf)
 * DivideMix : Pytorch version of the official code [DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=HJgExaVtwr)
 * DYB : Dynamic bootstrap [Unsupervised Label Noise Modeling and Loss Correction](https://arxiv.org/pdf/1904.11238.pdf)
