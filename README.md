@@ -1,7 +1,7 @@
 # LabelCorruption
 
 Pytorch code for the paper
-* Title : Noisy Label Correction for Classification of Wafer Bin Maps with Mixed-Type Defect Patterns
+* Title : Mixed-type defect pattern recognition in noisy labeled wafer bin maps
 * Author : SuminKim
 
 ### Abstract
