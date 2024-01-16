@@ -24,3 +24,16 @@ Experiments on WBM datasets demonstrate the effectiveness of the proposed method
 * DivideMix : Pytorch version of the official code [DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=HJgExaVtwr)
 * DYB : Dynamic bootstrap [Unsupervised Label Noise Modeling and Loss Correction](https://arxiv.org/pdf/1904.11238.pdf)
 * SB : Sample bootstrap (mine)
+
+
+### Citation
+```
+@article{kim2023mixed,
+  title={Mixed-type defect pattern recognition in noisy labeled wafer bin maps},
+  author={Kim, Sumin and Kim, Heeyoung},
+  journal={Quality Engineering},
+  pages={1--15},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
+```
