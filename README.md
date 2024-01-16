@@ -4,7 +4,7 @@ Pytorch code for the paper
 * Title : Mixed-type defect pattern recognition in noisy labeled wafer bin maps
 * Author : SuminKim
 
-### Abstract
+## Abstract
 Classification of defect patterns in wafer bin maps (WBMs) helps engineers detect process failures and identify their causes. 
 In recent studies on WBMs, convolutional neural networks (CNNs) have demonstrated effective classification performance based 
 on their high expressive power. However, previous studies have implicitly assumed that the labels of WBMs used for training CNNs are correct, 
@@ -17,7 +17,7 @@ Finally, CNNs are trained on the selected mini-batches with dynamic bootstrappin
 Experiments on WBM datasets demonstrate the effectiveness of the proposed method.
 
 
-### Method
+## Method
 * CrossEntropy : Standard training with the CrossEntropy loss in CNN
 * DFL : Customized code(no official code) [Discriminative feature learning and cluster-based defect label reconstruction for reducing uncertainty in wafer bin map labels](https://link.springer.com/article/10.1007/s10845-020-01571-4)
 * SELFIE : Pytorch version of the official code [SELFIE: Refurbishing Unclean Samples for Robust Deep Learning](http://proceedings.mlr.press/v97/song19b/song19b.pdf)
@@ -26,7 +26,7 @@ Experiments on WBM datasets demonstrate the effectiveness of the proposed method
 * SB : Sample bootstrap (mine)
 
 
-### Citation
+## Citation
 ```
 @article{kim2023mixed,
   title={Mixed-type defect pattern recognition in noisy labeled wafer bin maps},
